@@ -51,3 +51,10 @@ jobs:
           commit_message: ':arrow_up: update latest bpb panel'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
           push_options: '--set-upstream'
+- name: Clone BPB workjs
+  run:obfuscated-worker.js` is correct.
+   - If the file has been moved or renamed, update the URL to the correct location.
+
+2. **Update the Workflow**:
+   Replace the |
+    wget -O origin.js https://raw.githubusercontent.com/bia-pain-bache/BPB-Worker-Panel/main/build/unob incorrect URL with the correct one in the workflow file `.githubfuscated-worker.js
